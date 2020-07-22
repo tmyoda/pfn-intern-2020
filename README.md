@@ -3,6 +3,9 @@
 pip install numpy tqdm
 ```
 
+# 問題文
+https://github.com/pfnet/intern-coding-tasks/blob/master/2020/README-ja.md
+
 ## 各プログラムの実行方法
 - `q(n)_in.txt`に対する解答`q(n)_out.txt`を出力
 ```
